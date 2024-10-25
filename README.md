@@ -2,7 +2,7 @@
 It is an honor to have you view my profile. I'm João, Fullstack developer and Computer Engineer from Campinas, São Paulo. I'm passionate about creating solutions that make technology accessible and effective for everyone
 [![trophy](https://github-profile-trophy.vercel.app/?username=mestresol&theme=dracula&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Mestre Sol's GitHub stats](https://github-readme-stats.vercel.app/api?username=mestresol&show_icons=true&theme=radical&hide_border=tru&card_width=440)
+![Mestre Sol's GitHub stats](https://github-readme-stats.vercel.app/api?username=mestresol&show_icons=true&theme=radical&hide_border=true&card_width=440)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mestresol&theme=dracula&hide_border=true&card_width=440)](https://git.io/streak-stats)
 
 ## This is tools I know
