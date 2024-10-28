@@ -1,12 +1,12 @@
 # Greetings 👋
 It is an honor to have you view my profile. I'm João, Fullstack developer and Computer Engineer from Campinas, São Paulo. I'm passionate about creating solutions that make technology accessible and effective for everyone
-[![trophy](https://github-profile-trophy.vercel.app/?username=mestresol&theme=dracula&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MestreSol&theme=dracula&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Mestre Sol's GitHub stats](https://github-readme-stats.vercel.app/api?username=mestresol&show_icons=true&theme=radical&hide_border=true&card_width=400)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mestresol&theme=dracula&hide_border=true&card_width=400)](https://git.io/streak-stats)
+![Mestre Sol's GitHub stats](https://github-readme-stats.vercel.app/api?username=MestreSol&show_icons=true&theme=radical&hide_border=true&card_width=400)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MestreSol&theme=dracula&hide_border=true&card_width=400)](https://git.io/streak-stats)
 
 ## This is tools I know
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mestresol&theme=dracula&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MestreSol&theme=dracula&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Back-end
@@ -166,6 +166,6 @@ Caso queira me encontrar nas redes sociais.
 [<img src="https://th.bing.com/th/id/OIP.JCI8klaaA1w4LCtljpeJoAHaHa?rs=1&pid=ImgDetMain" loading="lazy" width="50" height="50"/>]("https://www.instagram.com/mestre.sol/")
 [<img src="https://static.vecteezy.com/system/resources/previews/024/273/794/non_2x/tiktok-logo-transparent-free-png.png" loading="lazy" width="60" height="60"/>]("https://www.tiktok.com/@mestresol6")
 
-[![Mestre Sol's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mestresol)](https://github.com/anuraghazra/github-readme-stats)
+[![Mestre Sol's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MestreSol)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mestre Sol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mestresol&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mestre Sol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MestreSol&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
