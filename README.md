@@ -166,6 +166,6 @@ Caso queira me encontrar nas redes sociais.
 [<img src="https://th.bing.com/th/id/OIP.JCI8klaaA1w4LCtljpeJoAHaHa?rs=1&pid=ImgDetMain" loading="lazy" width="50" height="50"/>]("https://www.instagram.com/mestre.sol/")
 [<img src="https://static.vecteezy.com/system/resources/previews/024/273/794/non_2x/tiktok-logo-transparent-free-png.png" loading="lazy" width="60" height="60"/>]("https://www.tiktok.com/@mestresol6")
 
-[![Mestre Sol's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MestreSol)](https://github.com/anuraghazra/github-readme-stats)
+[![Mestre Sol's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mestresol)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mestre Sol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MestreSol&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
