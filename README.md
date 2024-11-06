@@ -125,8 +125,8 @@ Similar to Realms of the Revolution, with the addition of controlling historic f
 
 > itch.io: [V0.0.0](https://mestresoos.itch.io/age-of-lowpolly) | Steam: [N/A]() | EPIC: [N/A]()
 
-### [N.O.V.A. - Status: 🚧 Working progress](https://github.com/The-Old-Baron/Nova)
-> Type: Game | Unreal
+### [N.O.V.A. - Status: 🚧 Working progress](https://github.com/MestreSol/nova)
+> Type: Game | Unreal/Unity
 
 A multiplayer space exploration and survival game for up to 6 players, set during the first phase of the *Monocrom* project within the *Systempunk* universe. Players must repair the ship to return to Earth, facing cosmic creatures and events.
 
@@ -140,7 +140,7 @@ Created for a game jam, this isometric game has a story inspired by practical ps
 > itch.io: [V0.0.0](https://mestresoos.itch.io/the-psychologist) | Steam: [N/A]() | EPIC: [N/A]()
 
 
-### [Monocrom - Status: 🚧 Working progress](https://github.com/The-Old-Baron/Monocrom)
+### [Monocrom - Status: 🚧 Working progress](https://github.com/MestreSol/MON)
 > Type: Game | Unity
 
 A monochromatic metroidvania set in the Systempunk universe, where the player must collect fragments of the Pedra Matiz crystal. Each kingdom represents a different RGB color, with choices between democracy or chaos.
@@ -159,6 +159,12 @@ A Minecraft mod that brings the Systempunk universe into the game.
 
 A music-focused platformer set in the *Systempunk* universe, narrating the "Prophecy of the End," one of the key artifacts of the Systempunk lore.
 
+### [Poezis - Status: 🚧 Working progress](https://github.com/MestreSol/Poezis)
+> Type: Site | React
+
+A page to post and comment of poems
+
+> N/A
 ## Find me
 Caso queira me encontrar nas redes sociais.
 
