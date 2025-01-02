@@ -18,6 +18,37 @@ It is an honor to have you view my profile. I'm João, Fullstack developer and C
 ![](https://github-contributor-stats.vercel.app/api?username=MestreSol&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## My Projects
+### [N.O.V.A. - Status: 🚧 Work in Progress](https://github.com/MestreSol/Erebus)
+>Type: Game | Unreal | 3D | Blender
+
+EREBUS is a space exploration game developed in Unreal Engine 5.5, introducing the Systempunk universe. Up to 6 players form a crew to explore abandoned planets, collect resources and repair their badly damaged ship, fighting to return to Earth.
+
+> Dev: [Steam](https://store.steampowered.com/app/3419920/NOVA/)
+> Prod: [N/A]()
+### [Systempunk Forum - Status: ]()
+>Type: Web App | NEXT | TS | Python | SQL
+
+The forum is built with Next.js and hosted on Vercel, offering an interactive space for fans and developers to discuss everything from the Systempunk eras to associated projects such as books, games and visual material.
+
+> Dev: [0.0.0]()
+> Prod: [0.0.0]()
+
+### [EFood - Status: ](https://github.com/MestreSol/e-food)
+>Type Web App | React | TS
+
+Um catalogo de restaurantes onde voce realizar pedidos dentro dele com o carrinho e sistema de envio. 
+
+> Dev: []()
+> Prod: []()
+### [Santa_Barbara]()
+>Type: Web page | React | TS
+
+Um site construido para a apresentação das informações da Paroquia Santa Barbará de Sumaré. 
+
+> Dev: []()
+> Prod: []()
+
+
 ### [Big O app - Status: 🚧 Work in Progress](https://github.com/MestreSol/OldBarom_MainApp)
 > Type: Web app | React | JS | Python
 
